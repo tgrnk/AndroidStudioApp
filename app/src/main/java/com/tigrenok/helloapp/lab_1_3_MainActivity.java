@@ -2,11 +2,9 @@ package com.tigrenok.helloapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.constraintlayout.widget.ConstraintLayout;
-
 import android.os.Bundle;
 import android.widget.TextView;
-
-public class lb2 extends AppCompatActivity {
+public class lab_1_3_MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -15,10 +13,13 @@ public class lb2 extends AppCompatActivity {
         textView.setText("Hello Android");
         textView.setTextSize(26);
         // устанавливаем параметры размеров и расположение элемента
-        ConstraintLayout.LayoutParams layoutParams = new ConstraintLayout.LayoutParams(ConstraintLayout.LayoutParams.WRAP_CONTENT, ConstraintLayout.LayoutParams.WRAP_CONTENT);
+        ConstraintLayout.LayoutParams layoutParams =
+                new ConstraintLayout.LayoutParams
+                        (ConstraintLayout.LayoutParams.WRAP_CONTENT,
+                                ConstraintLayout.LayoutParams.WRAP_CONTENT);
         // эквивалент app:layout_constraintLeft_toLeftOf="parent"
         layoutParams.leftToLeft = ConstraintLayout.LayoutParams.PARENT_ID;
-        // эквивалент app:layout_constraintTop_toTopOf="parent"
+// эквивалент app:layout_constraintTop_toTopOf="parent"
         layoutParams.topToTop = ConstraintLayout.LayoutParams.PARENT_ID;
         // устанавливаем параметры для textView
         textView.setLayoutParams(layoutParams);
