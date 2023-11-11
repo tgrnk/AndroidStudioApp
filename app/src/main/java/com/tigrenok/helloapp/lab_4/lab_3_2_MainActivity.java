@@ -1,4 +1,4 @@
-package com.tigrenok.helloapp.thirdlab;
+package com.tigrenok.helloapp.lab_4;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;

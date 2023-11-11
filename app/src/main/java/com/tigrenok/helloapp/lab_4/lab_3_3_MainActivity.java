@@ -1,13 +1,11 @@
-package com.tigrenok.helloapp.thirdlab;
+package com.tigrenok.helloapp.lab_4;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.annotation.SuppressLint;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.CheckBox;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.tigrenok.helloapp.R;
 

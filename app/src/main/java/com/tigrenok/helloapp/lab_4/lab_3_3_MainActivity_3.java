@@ -1,12 +1,9 @@
-package com.tigrenok.helloapp.thirdlab;
+package com.tigrenok.helloapp.lab_4;
 
 import android.os.Bundle;
-import android.view.View;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.TextView;
-import android.widget.Toast;
-import android.widget.ToggleButton;
 
 import androidx.appcompat.app.AppCompatActivity;
 

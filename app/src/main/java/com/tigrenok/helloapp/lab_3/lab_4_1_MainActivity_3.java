@@ -1,11 +1,10 @@
-package com.tigrenok.helloapp.fourthlab;
+package com.tigrenok.helloapp.lab_3;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.widget.SeekBar;
 import android.widget.TextView;
-import android.widget.TimePicker;
 
 import com.tigrenok.helloapp.R;
 

@@ -1,4 +1,4 @@
-package com.tigrenok.helloapp.fourthlab;
+package com.tigrenok.helloapp.lab_3;
 
 import android.os.Bundle;
 import android.widget.TextView;
