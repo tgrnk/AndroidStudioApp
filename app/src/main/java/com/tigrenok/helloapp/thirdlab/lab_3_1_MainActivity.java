@@ -1,4 +1,4 @@
-package com.tigrenok.helloapp;
+package com.tigrenok.helloapp.thirdlab;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
@@ -9,6 +9,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.google.android.material.snackbar.Snackbar;
+import com.tigrenok.helloapp.R;
 
 public class lab_3_1_MainActivity extends AppCompatActivity {
     @Override

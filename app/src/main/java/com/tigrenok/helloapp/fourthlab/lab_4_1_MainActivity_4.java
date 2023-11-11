@@ -1,8 +1,10 @@
-package com.tigrenok.helloapp;
+package com.tigrenok.helloapp.fourthlab;
 
 import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.tigrenok.helloapp.R;
 
 public class lab_4_1_MainActivity_4 extends AppCompatActivity {
     @Override

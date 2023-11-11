@@ -1,4 +1,4 @@
-package com.tigrenok.helloapp;
+package com.tigrenok.helloapp.secondlab;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;

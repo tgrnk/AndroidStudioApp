@@ -1,4 +1,4 @@
-package com.tigrenok.helloapp;
+package com.tigrenok.helloapp.firstlab;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.constraintlayout.widget.ConstraintLayout;

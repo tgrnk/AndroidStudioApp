@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:padding="16dp"
-    tools:context=".lab_2_3_MainActivity">
+    tools:context=".secondlab.lab_2_3_MainActivity">
     <include
         layout="@layout/lab_2_3_text_panel"
         android:layout_width="wrap_content"

@@ -1,9 +1,11 @@
-package com.tigrenok.helloapp;
+package com.tigrenok.helloapp.fourthlab;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.TextView;
 import android.widget.TimePicker;
+
+import com.tigrenok.helloapp.R;
 
 
 public class lab_4_1_MainActivity_2 extends AppCompatActivity {

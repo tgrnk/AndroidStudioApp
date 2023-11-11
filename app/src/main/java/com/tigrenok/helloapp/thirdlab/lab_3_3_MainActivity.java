@@ -1,4 +1,4 @@
-package com.tigrenok.helloapp;
+package com.tigrenok.helloapp.thirdlab;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -8,6 +8,8 @@ import android.view.View;
 import android.widget.CheckBox;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.tigrenok.helloapp.R;
 
 
 public class lab_3_3_MainActivity extends AppCompatActivity {

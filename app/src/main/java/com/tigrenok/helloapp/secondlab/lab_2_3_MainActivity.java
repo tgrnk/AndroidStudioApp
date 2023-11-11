@@ -1,4 +1,4 @@
-package com.tigrenok.helloapp;
+package com.tigrenok.helloapp.secondlab;
 
 import android.os.Bundle;
 import android.view.View;
@@ -6,6 +6,8 @@ import android.widget.Button;
 import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.tigrenok.helloapp.R;
 
 public class lab_2_3_MainActivity extends AppCompatActivity {
 

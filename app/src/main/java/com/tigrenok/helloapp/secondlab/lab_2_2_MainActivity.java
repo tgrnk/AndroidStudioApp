@@ -1,9 +1,11 @@
-package com.tigrenok.helloapp;
+package com.tigrenok.helloapp.secondlab;
 
 import android.os.Bundle;
 import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.tigrenok.helloapp.R;
 
 public class lab_2_2_MainActivity extends AppCompatActivity {
     @Override

@@ -1,10 +1,12 @@
-package com.tigrenok.helloapp;
+package com.tigrenok.helloapp.fourthlab;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.tigrenok.helloapp.R;
 
 public class lab_4_2_MainActivity extends AppCompatActivity {
 
